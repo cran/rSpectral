@@ -1,7 +1,7 @@
 Package: rSpectral
 Type: Package
 Title: Spectral Modularity Clustering
-Version: 1.0.0.9
+Version: 1.0.0.10
 Authors@R: c(
     person("Colin", "Mclean", 
         email="Colin.D.Mclean@ed.ac.uk", role="aut", 
@@ -47,10 +47,10 @@ LinkingTo: Rcpp, RcppArmadillo(>= 0.11.2.0.0)
 Suggests: RColorBrewer, Rgraphviz, igraphdata, testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: yes
-Packaged: 2022-08-18 07:46:42 UTC; lptolik
+Packaged: 2023-01-18 04:56:48 UTC; anatolii-sorokin
 Author: Colin Mclean [aut] (algorithm implementation in Rcpp functions),
   Anatoly Sorokin [aut, cre] (R functions, cranification, documentation,
     testing, maintenance)
 Maintainer: Anatoly Sorokin <lptolik@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-08-19 12:20:02 UTC
+Date/Publication: 2023-01-18 12:00:02 UTC

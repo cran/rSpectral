@@ -1,11 +1,12 @@
-fc3d65fdf9540de553fa33188b3d5a82 *DESCRIPTION
+2b068aeed6bed300c7e44b46ef745e6d *DESCRIPTION
 e65415cb86e2819a096d39520ac3a477 *NAMESPACE
+09df36323f17cd2d15a7171efc9de62f *NEWS.md
 59d370c5b1b9f02c331d9d63e9d4bcd0 *R/RcppExports.R
 98b42a5bb85b603ca1dbaa29742db274 *R/graphNEL.R
 1fb71ba68bac028b665177d457c8eb76 *R/igraph.R
 393365dc7f572dfcb1be0f91159af784 *R/rSpectral-package.R
 73b4ed538f7e524d7e6aa7d815f18753 *README.md
-3f28b664a8676a8aad8052fc63ef3aa4 *build/partial.rdb
+5d7756eb675eae34d9c2a067bf250bdb *build/partial.rdb
 de0e73840986b31585bbb254511faf90 *inst/CITATION
 afe26493eb4c1a4ede792e9521414b7d *inst/REFERENCES.bib
 cf352b8bb92372e9caf9a2571985775c *man/figures/Figure_Comp.png
@@ -27,7 +28,7 @@ a056e17bbbba0023aa62245007a88f04 *src/Headers.h
 76f8a39f7b74d42a7ce36c541694d48b *src/network.cpp
 3927123cd8fd6942d7fb5ee7d5f65a3e *src/network.h
 7137898a4cbb4eae04b576f5137dd2db *src/rSpectral.cpp
-4848db3ea4dadd6ec6fd845329e171cf *src/readfile.cpp
+2f64b37d2a2d6236d54a2087a1bef471 *src/readfile.cpp
 7b04d7580f041e5adf8a9461104ae164 *src/readfile.h
 113f3ff254fb174ae6dc752f15bd5ab0 *src/vertex.cpp
 7da0bd5b0af834a9f4e341b819ed8b3e *src/vertex.h
